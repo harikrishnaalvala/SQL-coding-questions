@@ -1,5 +1,3 @@
-# SQL-coding-questions
-
 # 📊 Top SQL Interview Questions for Data Analysts
 
 A collection of frequently asked SQL interview questions with optimized solutions.
